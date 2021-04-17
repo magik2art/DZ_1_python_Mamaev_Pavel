@@ -31,7 +31,7 @@ for num_1 in list_in_2:
         sum += int(num_1)
 
     # print ("sum", sum)  # test
-print sum, "- is the answer for homework for question 'A'!"
+print(sum, "- is the answer for homework for question 'A'!")
 
 for i in range(len(list_in_2)):
     list_in_2[i] += 17
@@ -53,4 +53,4 @@ for num_1 in list_in_2:
         sum += int(num_1)
 
     # print ("sum", sum) #test
-print sum, "- is the answer for homework for question 'B'!"
+print(sum, "- is the answer for homework for question 'B'!")
